@@ -145,3 +145,7 @@ Web tarayıcınızdan direkt olarak oynayabilirsiniz. Herhangi bir indirme gerek
 4. **Architecture**: x86_64
 5. **Build** butonuna tıklayın
 6. Build klasörünü seçin ve bekleyin
+
+## Katkısı Geçenler
+
+- ahsencakir & rigitty
